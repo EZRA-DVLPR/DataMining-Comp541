@@ -18,3 +18,6 @@ IsaiahMartinez.zip
 
 #ignore .DS_Store files
 /Group_Proj/.DS_Store
+
+#ignore test files created
+/Group_Proj/Code/test.*
