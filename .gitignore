@@ -21,3 +21,14 @@ IsaiahMartinez.zip
 
 #ignore test files created
 /Group_Proj/Code/test.*
+
+#ignore aux files created by Latex
+/Group_Proj/FinalReport/Sample/Sample.log
+/Group_Proj/FinalReport/Sample/Sample.aux
+/Group_Proj/FinalReport/Sample/Sample.synctex.gz
+/Group_Proj/FinalReport/Sample/Sample.toc
+
+/Group_Proj/FinalReport/Actual/*.log
+/Group_Proj/FinalReport/Actual/*.aux
+/Group_Proj/FinalReport/Actual/*.synctex.gz
+/Group_Proj/FinalReport/Actual/*.toc
