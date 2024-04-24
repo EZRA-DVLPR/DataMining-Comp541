@@ -1,6 +1,17 @@
 # DataMining-Comp541
 
-# Project 1
+# Assignment 1
+
+## Description
+
+Compare the following different disciplines within Data Science by reading academic papers:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Mining
+
+# Assignment 2
 
 ## Description
 
@@ -20,17 +31,24 @@ Given a csv, read the data and perform basic statistics on it using R
 > [!Note]
 > I went ahead and saved these plots as images as well
 
-# Project 2
+# Assignment 3
 
 ## Description
 
-TBD...
+Answer the questions to the best of my ability with the techniques taught in class.
 
-# Project 3
+> [!Note]
+> Attached are the problems in `Assignment3.pdf` and the solutions within `Answers_Assignment3.pdf`
+
+# Assignment 4
 
 ## Description
 
-TBD...
+Import a dataset predefined in R and use the Apriori function on the dataset with a specified minimum support and minimum confidence.
+
+## Objectives:
+
+Print out the first 10 strong association rules.
 
 # Group Project
 
@@ -38,3 +56,10 @@ TBD...
 
 A Music Recommendation Service utilizing music data and user data
 
+I utilized the Neural Collaborative Filtering and Collaborative Filtering Algorithms for the dataset.
+Data was obtained from ListenBrainz.
+
+For more information see the following files:
+
+- [`Group_Proj/Proposal/Project Proposal.pdf`][Group_Proj/Proposal/Project Proposal.pdf]
+- [`Group_Proj/FinalReport/Actual/finalReport.pdf`][Group_Proj/FinalReport/Actual/finalReport.pdf]
