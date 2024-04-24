@@ -61,5 +61,5 @@ Data was obtained from ListenBrainz.
 
 For more information see the following files:
 
-- [`Group_Proj/Proposal/Project Proposal.pdf`][Group_Proj/Proposal/Project Proposal.pdf]
-- [`Group_Proj/FinalReport/Actual/finalReport.pdf`][Group_Proj/FinalReport/Actual/finalReport.pdf]
+- [Project Proposal][Group_Proj/Proposal/Project Proposal.pdf]
+- [Final Report`][Group_Proj/FinalReport/Actual/finalReport.pdf]
