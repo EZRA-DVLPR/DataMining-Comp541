@@ -10,6 +10,8 @@
 
 # Assignment 1
 
+First assignment of the course
+
 ## Description
 
 Compare the following different disciplines within Data Science by reading academic papers:
@@ -20,6 +22,8 @@ Compare the following different disciplines within Data Science by reading acade
 - Data Mining
 
 # Assignment 2
+
+Second assignment of the course
 
 ## Description
 
@@ -41,6 +45,8 @@ Given a csv, read the data and perform basic statistics on it using R
 
 # Assignment 3
 
+Third assignment of the course
+
 ## Description
 
 Answer the questions to the best of my ability with the techniques taught in class.
@@ -49,6 +55,8 @@ Answer the questions to the best of my ability with the techniques taught in cla
 > Attached are the problems in `Assignment3.pdf` and the solutions within `Answers_Assignment3.pdf`
 
 # Assignment 4
+
+Fourth assignment of the course
 
 ## Description
 
